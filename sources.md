@@ -10,7 +10,7 @@ This directory indexes the primary, high-signal practitioners whose organic Link
 *   **Annotation:** Former SaaS executive (SVP at PatientPop) who scaled recurring revenue using organic pipelines. His data provides clear frameworks for high-volume, structured personal branding that converts into business pipeline.
 
 ### 2. Lara Acosta
-*   **Profile:** [linkedin.com/in/laraacostas](https://www.linkedin.com/in/laraacostas)
+*   **Profile:** [linkedin.com/in/laraacostar](https://www.linkedin.com/in/laraacostas)
 *   **Focus:** Hook optimization, formatting, and community engagement psychology.
 *   **Annotation:** Founder of LA Digital, a specialized personal branding agency. Her framework is essential for analyzing modern formatting tactics, high-click hooks, and algorithm-favored organic engagement strategies.
 
