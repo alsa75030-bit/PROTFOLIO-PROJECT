@@ -45,7 +45,7 @@ This directory indexes the primary, high-signal practitioners whose organic Link
 *   **Annotation:** Co-founder of Maven and altMBA. Her content serves as an excellent benchmark for "spiky points of view"—a content strategy that challenges industry norms to build high trust among enterprise decision-makers.
 
 ### 9. Katelyn Bourgoin
-*   **Profile:** [linkedin.com/in/katelyn-bourgoin](https://www.linkedin.com/in/katelyn-bourgoin)
+*   **Profile:** [linkedin.com/in/katelyn-bourgoin](https://www.linkedin.com/in/katebour)
 *   **Focus:** Buyer psychology, behavioral patterns, and hook mechanics.
 *   **Annotation:** CEO of Customer Camp. Known as the "Customer Whisperer," her data isolates how to use psychological trigger points in short-form text to prompt immediate problem recognition from B2B buyers.
 
