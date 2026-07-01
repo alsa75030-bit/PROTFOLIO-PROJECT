@@ -1,7 +1,12 @@
-[
-    {
-        "date": "2026-06-25",
-        "content": "Story-maxing on LinkedIn: People don't connect with corporate logos; they connect with human struggles. Share the messy middle of your product launch, not just the polished victory.",
-        "engagement": "2.9k Likes"
-    }
-]
+---
+expert: Lara Acosta
+date_collected: 2026-07-01
+---
+
+## Post 1
+**Date:** June 2025
+**Engagement:** 2.7k likes
+
+I grew from 0 to 200K followers on LinkedIn in 18 months. 
+The secret? I documented everything publicly. 
+Wins, losses, failures. People follow real, not perfect.
