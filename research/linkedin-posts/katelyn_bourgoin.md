@@ -1,7 +1,12 @@
-[
-    {
-        "date": "2026-06-23",
-        "content": "Buyer psychology: Marketers fail because they focus on features instead of triggers. Why do people actually buy? Find the catalyst event that forced them to search for a tool.",
-        "engagement": "2.2k Likes"
-    }
-]
+---
+expert: Katelyn Bourgoin
+date_collected: 2026-07-01
+---
+
+## Post 1
+**Date:** June 2025
+**Engagement:** 1.5k likes
+
+Your buyers don't care about your product features. 
+They care about their problem. Lead with the pain, 
+not the solution, and your content will convert.
