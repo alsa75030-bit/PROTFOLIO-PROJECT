@@ -1,7 +1,12 @@
-[
-    {
-        "date": "2026-06-20",
-        "content": "The visual hooks blueprint: The first sentence must disrupt the scroll. Use simple list frameworks (e.g., '5 frameworks for clear thinking') to anchor long-form text value.",
-        "engagement": "8.4k Likes"
-    }
-]
+---
+expert: Sahil Bloom
+date_collected: 2026-07-01
+---
+
+## Post 1
+**Date:** June 2025
+**Engagement:** 5.3k likes
+
+The best LinkedIn content makes the reader feel 
+something. Not just think something. Emotion drives 
+action. Information alone never does.
