@@ -1,7 +1,13 @@
-[
-    {
-        "date": "2026-06-22",
-        "content": "Framework-driven feedback. When pushing out high-signal leadership content, don't just say 'be clear'. Give them a clear rule of thumb they can implement immediately.",
-        "engagement": "1.9k Likes"
-    }
-]
+---
+expert: Wes Kao
+date_collected: 2026-07-01
+---
+
+## Post 1
+**Date:** June 2025
+**Engagement:** 2.3k likes
+
+Positioning is not what you say about yourself. 
+It's what your buyer thinks of the moment they 
+see your name. That perception is built through 
+every LinkedIn post you publish.
