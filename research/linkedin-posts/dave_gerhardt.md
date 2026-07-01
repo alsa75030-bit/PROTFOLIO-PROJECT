@@ -1,7 +1,12 @@
-[
-    {
-        "date": "2026-06-21",
-        "content": "No-fluff positioning. If your SaaS tool requires 3 paragraphs of jargon to explain what it does, your marketing is broken. Explain it like you are talking to a peer at a bar.",
-        "engagement": "5.1k Likes"
-    }
-]
+---
+expert: Dave Gerhardt
+date_collected: 2026-07-01
+---
+
+## Post 1
+**Date:** June 2025
+**Engagement:** 3.2k likes
+
+The best B2B marketing doesn't feel like marketing. 
+It feels like a founder sharing something real. 
+That's what builds pipeline on LinkedIn.
