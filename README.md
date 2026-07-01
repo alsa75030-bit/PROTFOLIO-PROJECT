@@ -34,5 +34,5 @@ This repository now contains a structured research framework detailing high-sign
 ## Selected Strategy & Methodology
 I chose **LinkedIn Organic Content Strategy for B2B SaaS** because high-growth companies are increasingly leveraging founder-led brand building and clinical positioning to lower customer acquisition costs (CAC).
 
-Rather than aggregating generic blog advice, this repository extracts data directly from practitioners who manage specialized growth agencies or have scaled ARR at enterprise SaaS startups. The compilation process utilized automated Python processing scripts to clean, format, and isolate individual datasets by author.
+Rather than aggregating generic blog advice, this repository extracts data directly from practitioners who manage specialized growth agencies or have scaled ARR at enterprise SaaS startups.
 
