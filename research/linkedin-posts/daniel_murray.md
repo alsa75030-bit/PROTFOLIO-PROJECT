@@ -1,7 +1,12 @@
-[
-    {
-        "date": "2026-06-27",
-        "content": "B2B marketing is boring because companies write for committees, not humans. Keep your copy simple, use crisp sentences, and optimize for scannability on a mobile screen.",
-        "engagement": "3.1k Likes"
-    }
-]
+---
+expert: Daniel Murray
+date_collected: 2026-07-01
+---
+
+## Post 1
+**Date:** June 2025
+**Engagement:** 1.8k likes
+
+Most B2B marketers are creating content for themselves, 
+not their buyers. Stop writing what you want to say. 
+Start writing what your buyer needs to hear.
