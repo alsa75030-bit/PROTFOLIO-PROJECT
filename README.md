@@ -29,7 +29,7 @@ This repository now contains a structured research framework detailing high-sign
 ## Research Directory Structure
 *  * [sources.md](sources.md): Comprehensive list of the 10 selected experts, links to their professional footprints, and targeted strategy annotations.
 *  * [/research/linkedin-posts/](research/linkedin-posts/): Structured JSON datasets containing high-performing content assets, hook variants, and formatting templates from each author.
-
+*  * [youtube-transcripts](research/youtube-transcripts/): Transcripts organized by video.
 ## Selected Strategy & Methodology
 I chose **LinkedIn Organic Content Strategy for B2B SaaS** because high-growth companies are increasingly leveraging founder-led brand building and clinical positioning to lower customer acquisition costs (CAC).
 
