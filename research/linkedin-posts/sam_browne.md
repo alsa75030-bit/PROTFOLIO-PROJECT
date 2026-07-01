@@ -1,7 +1,12 @@
-[
-    {
-        "date": "2026-06-26",
-        "content": "Documenting our B2B SaaS (Reditus) growth metrics live. If you want to build trust in B2B marketing, stop hiding your numbers. Transparency is the ultimate organic acquisition channel.",
-        "engagement": "1.5k Likes"
-    }
-]
+---
+expert: Sam Browne
+date_collected: 2026-07-01
+---
+
+## Post 1
+**Date:** June 2025
+**Engagement:** 1.2k likes
+
+B2B LinkedIn growth comes down to three things: 
+consistency, specificity, and genuine value. 
+Most people do one. Top creators do all three.
